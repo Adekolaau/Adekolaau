@@ -5,7 +5,9 @@
 
 
 I’m @Adekolaau a Frontend developer with a keen interest in HTML, CSS, JavaScript, Python 
+
 I'm also a Data analysts proficient in tools like Excel and MySQL. 
+
 I'm currently learning JavaScript and looking to collaborate with people in related fields.
 
 
