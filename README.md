@@ -23,4 +23,5 @@ I'm also a Data analysts.
 📫 How to reach me ...
 
 Email: adekola.au@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/umar-adekola/
