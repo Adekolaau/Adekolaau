@@ -4,15 +4,17 @@
 ![IMG_1740](https://user-images.githubusercontent.com/128713981/233768640-8af28558-8bd6-46f9-b0d7-b89bcfd53eda.PNG)
 
 
-I’m @Adekolaau a Data Engineer 
+I’m @Adekolaau 
 
-I'm also a Data analysts. 
+A Data analyst. 
 
 
 ## Skills
 
 - Excel
 - MySQL
+- Tableau
+- R
 - HTML
 - CSS
 - JavaScript
