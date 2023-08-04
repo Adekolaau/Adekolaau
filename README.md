@@ -12,15 +12,9 @@ A Data analyst.
 ## Skills
 
 - Excel
-- MySQL
+- SQL
 - Tableau
 - R
-- HTML
-- CSS
-- JavaScript
-- Python
-
-
 
 📫 How to reach me ...
 
