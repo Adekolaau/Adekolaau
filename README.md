@@ -6,14 +6,14 @@
 
 I’m @Adekolaau 
 
-A Data analyst. 
+Data analyst. 
 
 
 ## Skills
 
 - Excel
 - SQL
-- Tableau
+- Power BI
 - R
 
 📫 How to reach me ...
