@@ -17,6 +17,6 @@ Data analyst.
 
 📫 How to reach me ...
 
-[Email](adekola.au@gmail.com)
+Email: adekola.au@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/umar-adekola/)
