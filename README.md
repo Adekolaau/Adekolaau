@@ -1,10 +1,9 @@
 👋 Hi there 
 
 
-![IMG_1740](https://user-images.githubusercontent.com/128713981/233768640-8af28558-8bd6-46f9-b0d7-b89bcfd53eda.PNG)
+![White Black Minimalist Quotes Twitter Post](https://github.com/Adekolaau/Polished-data-hub/assets/128713981/98d3367e-07a5-473a-a778-bfcc031262ed)
 
-
-I’m @Adekolaau 
+I’m Umar Adekola 
 
 Data analyst. 
 
