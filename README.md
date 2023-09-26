@@ -1,7 +1,7 @@
 👋 Hi there 
 
 
-![White Black Minimalist Quotes Twitter Post](https://github.com/Adekolaau/Polished-data-hub/assets/128713981/98d3367e-07a5-473a-a778-bfcc031262ed)
+![White Black Minimalist Quotes Twitter Post (1)](https://github.com/Adekolaau/Polished-data-hub/assets/128713981/d4368258-6399-40ba-859a-76e494f2411c)
 
 I’m Umar Adekola 
 
