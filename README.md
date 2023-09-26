@@ -5,7 +5,7 @@
 
 I’m Umar Adekola 
 
-Data analyst. 
+Data Analyst 
 
 
 ## Skills
