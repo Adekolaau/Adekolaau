@@ -15,11 +15,11 @@ I am a multi-skilled professional with expertise in data analysis, Microsoft 365
 - Power BI
 - R
 - Python
-- project management (Microsoft Project)
+- Project Management (Microsoft Project)
 - Ocraflex
 - FluidSim
 - AutoCAD 2D/3D, and Inventor
-- Mircosoft 365
+- Microsoft 365
   
 📫 How to reach me ...
 
