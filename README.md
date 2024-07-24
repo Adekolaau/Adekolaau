@@ -5,7 +5,7 @@
 
 I’m Umar Adekola 
 
-Data Analyst 
+I am a multi-skilled professional with expertise in data analysis, Microsoft 365, project management, hydraulic designs, OrcaFlex, AutoCAD 2D/3D, and Inventor.  
 
 
 ## Skills
@@ -14,7 +14,13 @@ Data Analyst
 - SQL
 - Power BI
 - R
-
+- Python
+- project management (Microsoft Project)
+- Ocraflex
+- FluidSim
+- AutoCAD 2D/3D, and Inventor
+- Mircosoft 365
+  
 📫 How to reach me ...
 
 Email: adekola.au@gmail.com
